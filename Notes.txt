@@ -6,19 +6,20 @@ National Chains
 Food Lion
 Kroger
 Target
-Costco
-Walmart/Sams Club
+Costco **
+Walmart
+Sams **
 
 Regional Chains
 Food City
-Ingles
+Ingles**
 Piggly Wiggly
 Publix
 
 Local Chains
 Foodland
-Houchens
-United Grocery Outet
+Houchens**
+United Grocery Outet**
 
 Deep Discount/Limited Assortment Chains
 Aldi
@@ -26,8 +27,8 @@ Big Lots **
 Dollar General
 Family Dollar
 Five Below **
-Grocery Outlet
-WinCo
+Grocery Outlet**
+WinCo**
 
 Speciality/Natural
 The Fresh Market
@@ -38,3 +39,6 @@ Whole Foods
 NOT INCLUDING
 retailers' cooperatives
 independently owned stores
+
+Use of the free database in production requires that you link back to:
+https://simplemaps.com/data/us-zips.
