@@ -42,3 +42,9 @@ independently owned stores
 
 Use of the free database in production requires that you link back to:
 https://simplemaps.com/data/us-zips.
+
+
+https://brandpalettes.com/
+https://www.codeofcolors.com/
+
+https://en.wikipedia.org/wiki/East_Nashville,_Tennessee#:~:text=Greater%20East%20Nashville%20not%20only,ZIP%20code%2037216%20and%2037207.
